@@ -4,5 +4,5 @@
 
 text1 = input("Введите текст: ")
 text1 = text1.lower()
-text=text1.split()
+text = text1.split()
 print(sorted(text))
